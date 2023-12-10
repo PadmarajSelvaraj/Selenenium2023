@@ -1,0 +1,6 @@
+[INFO ] 2023-12-10 15:36:35,649 base.invokeBrowser() - the browser name is chrome
+[INFO ] 2023-12-10 15:36:47,018 VerifyAddcustomer.addcustomer() - Navigated to add customer page
+[INFO ] 2023-12-10 15:36:49,391 wrapperMethods.takeScreenshot() - Screenshot captured sucessfully
+[INFO ] 2023-12-10 15:36:49,954 base.invokeBrowser() - the browser name is chrome
+[INFO ] 2023-12-10 15:36:59,220 VerifyAddcustomer.addcustomer() - Navigated to add customer page
+[INFO ] 2023-12-10 15:37:01,670 wrapperMethods.takeScreenshot() - Screenshot captured sucessfully
